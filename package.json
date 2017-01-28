@@ -6,7 +6,10 @@
   "repository": "https://github.com/angular/angular-seed",
   "license": "MIT",
   "dependencies":{
-    "bower": "^1.7.7"
+    "bower": "^1.7.7",
+    "express": "^4.9.7",
+    "gzippo": "^0.2.0",
+    "logfmt": "^1.2.0"
   },
   "devDependencies": {
     "bower": "^1.7.7",
